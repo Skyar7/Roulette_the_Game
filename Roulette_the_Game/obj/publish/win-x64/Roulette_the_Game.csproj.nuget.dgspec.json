@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\skyar\\OneDrive\\onedrive_repos\\Roulette_the_Game\\Roulette_the_Game\\Roulette_the_Game.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\skyar\\OneDrive\\onedrive_repos\\Roulette_the_Game\\Roulette_the_Game\\Roulette_the_Game.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\skyar\\OneDrive\\onedrive_repos\\Roulette_the_Game\\Roulette_the_Game\\Roulette_the_Game.csproj",
+        "projectName": "Roulette_the_Game",
+        "projectPath": "C:\\Users\\skyar\\OneDrive\\onedrive_repos\\Roulette_the_Game\\Roulette_the_Game\\Roulette_the_Game.csproj",
+        "packagesPath": "C:\\Users\\skyar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\skyar\\OneDrive\\onedrive_repos\\Roulette_the_Game\\Roulette_the_Game\\obj\\publish\\win-x64\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\skyar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

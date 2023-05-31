@@ -1,0 +1,15 @@
+C:\Users\skyar\OneDrive\onedrive_repos\Roulette_the_Game\Roulette_the_Game\bin\Release\net7.0\Roulette_the_Game.exe
+C:\Users\skyar\OneDrive\onedrive_repos\Roulette_the_Game\Roulette_the_Game\bin\Release\net7.0\Roulette_the_Game.deps.json
+C:\Users\skyar\OneDrive\onedrive_repos\Roulette_the_Game\Roulette_the_Game\bin\Release\net7.0\Roulette_the_Game.runtimeconfig.json
+C:\Users\skyar\OneDrive\onedrive_repos\Roulette_the_Game\Roulette_the_Game\bin\Release\net7.0\Roulette_the_Game.dll
+C:\Users\skyar\OneDrive\onedrive_repos\Roulette_the_Game\Roulette_the_Game\bin\Release\net7.0\Roulette_the_Game.pdb
+C:\Users\skyar\OneDrive\onedrive_repos\Roulette_the_Game\Roulette_the_Game\obj\Release\net7.0\Roulette_the_Game.csproj.AssemblyReference.cache
+C:\Users\skyar\OneDrive\onedrive_repos\Roulette_the_Game\Roulette_the_Game\obj\Release\net7.0\Roulette_the_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyar\OneDrive\onedrive_repos\Roulette_the_Game\Roulette_the_Game\obj\Release\net7.0\Roulette_the_Game.AssemblyInfoInputs.cache
+C:\Users\skyar\OneDrive\onedrive_repos\Roulette_the_Game\Roulette_the_Game\obj\Release\net7.0\Roulette_the_Game.AssemblyInfo.cs
+C:\Users\skyar\OneDrive\onedrive_repos\Roulette_the_Game\Roulette_the_Game\obj\Release\net7.0\Roulette_the_Game.csproj.CoreCompileInputs.cache
+C:\Users\skyar\OneDrive\onedrive_repos\Roulette_the_Game\Roulette_the_Game\obj\Release\net7.0\Roulette_the_Game.dll
+C:\Users\skyar\OneDrive\onedrive_repos\Roulette_the_Game\Roulette_the_Game\obj\Release\net7.0\refint\Roulette_the_Game.dll
+C:\Users\skyar\OneDrive\onedrive_repos\Roulette_the_Game\Roulette_the_Game\obj\Release\net7.0\Roulette_the_Game.pdb
+C:\Users\skyar\OneDrive\onedrive_repos\Roulette_the_Game\Roulette_the_Game\obj\Release\net7.0\Roulette_the_Game.genruntimeconfig.cache
+C:\Users\skyar\OneDrive\onedrive_repos\Roulette_the_Game\Roulette_the_Game\obj\Release\net7.0\ref\Roulette_the_Game.dll
